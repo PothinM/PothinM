@@ -80,14 +80,14 @@ Passionné par la cybersécurité et l'investigation numérique, j'aide les entr
 <summary><h2>🚀 Projets GitHub</h2></summary>
 
 ### 😎 Qualité de vie
-- [Clip'N'Go](https://github.com/PothinM/clip-n-go) - Un script Python pratique pour copier rapidement la dernière commande exécutée et/ou son résultat dans le presse-papiers
-
+- [Clip'N'Go](https://github.com/PothinM/clip-n-go) - Outil pratique pour copier rapidement la dernière commande exécutée et/ou son résultat dans le presse-papiers (Python)
+- [PyPrompter](https://github.com/PothinM/pyPrompter) - Outil pour générer des prompts structurés pour des assistants IA (Python)
 <!--### 🔍 OSINT & Investigation
 - [Projet 1](lien) - Description courte
 - [Projet 2](lien) - Description courte-->
 
 ### 🛡️ Cybersécurité
-- [RabbitMQ-Hash-Decoder](https://github.com/PothinM/rabbitmq-hash-decoder) - Un outil simple en Python pour décoder les hashs de mot de passe RabbitMQ encodé en base64 et extraire leurs composants (salt & hash)
+- [RabbitMQ-Hash-Decoder](https://github.com/PothinM/rabbitmq-hash-decoder) - Un outil simple pour décoder les hashs de mot de passe RabbitMQ encodé en base64 et extraire leurs composants (salt & hash) (Python)
 
 
 ### 💻 Développement
