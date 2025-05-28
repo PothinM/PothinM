@@ -91,8 +91,7 @@ Passionné par la cybersécurité et l'investigation numérique, j'aide les entr
 
 
 ### 💻 Développement
-- [SmartVote_Back](https://github.com/PothinM/smartvote_back) - Back office d'un PoC de système de vote sur la blockchain Ethereum (Solidity/hardhat)
-- [SmartVote_Front](https://github.com/PothinM/smartvote_front) - Front office d'un PoC de système de vote sur la blockchain Ethereum (React)
+- [SmartVote_Back](https://github.com/PothinM/smartvote_back) / [SmartVote_Front](https://github.com/PothinM/smartvote_front)  - Back/Front office d'un PoC de système de vote sur la blockchain Ethereum (hardhat/Solidity & React)
 
 <!--### 💻 Guides & Writeups
 - [Projet 5](lien) - Description courte
